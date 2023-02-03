@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Nelson-He
-- 👀 I’m interested in PostgreSQL and Distributed Database theory
-- 🌱 I’m currently learning PostgreSQL source code and pgxc source code
+- 👀 I’m interested in database kernel and tools develepment
+- 🌱 I’m currently working for enriching openGauss ecosystem
 - 📫 You can reach me by email to hgf199@126.com
